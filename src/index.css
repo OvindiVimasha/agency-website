@@ -1,0 +1,40 @@
+/*import google font*/
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap');
+
+@import "tailwindcss";
+
+/*enable dark mode variant*/
+@custom-variant dark (&:where(.dark, .dark &));
+
+/*apply google font for the entire webpage*/
+* {
+  font-family: "Manrope", sans-serif;
+  font-weight: 500;
+}
+
+/*add smooth scrolling*/
+html {
+  scroll-behavior: smooth;
+}
+
+/*add color palette*/
+@theme {
+  --color-primary: #5044E5;
+}
+
+/*custom animations*/
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-fadeIn {
+  animation: fadeIn 0.6s ease-out;
+}
