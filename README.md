@@ -2,8 +2,6 @@
 
 > A modern, ultra-responsive digital agency portfolio built with **React**, **Tailwind CSS**, and **Vite**.
 
-![Project Banner](https://via.placeholder.com/1200x400?text=Agency+Website+Banner)
-
 ## 🌟 Overview
 
 This project is a high-performance Single Page Application (SPA) designed to showcase the services, portfolio, and team of a modern digital agency. It features a stunning UI with glassmorphism effects, smooth animations, and a seamless dark/light mode experience.
