@@ -21,3 +21,5 @@ This project is a high-performance Single Page Application (SPA) designed to sho
 - **Tailwind CSS 4**: A utility-first CSS framework for rapid UI development.
 - **Vite**: Next Generation Frontend Tooling.
 - **React Icons**: Popular icons in your React projects easily.
+
+<img width="1738" height="818" alt="Screenshot 2025-12-13 111337" src="https://github.com/user-attachments/assets/cbd958d3-4297-4ad7-9279-7c4424b71aee" />
