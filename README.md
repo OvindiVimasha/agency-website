@@ -15,7 +15,7 @@ This project is a high-performance Single Page Application (SPA) designed to sho
 - **🧱 Component-Based**: Modular architecture using React best practices.
 - **🎬 Smooth Animations**: Custom CSS animations and transitions for an engaging user experience.
 
-## 🛠️ Technology Stack
+## 🛠️ Technologies Used
 
 - **React 19**: The library for web and native user interfaces.
 - **Tailwind CSS 4**: A utility-first CSS framework for rapid UI development.
